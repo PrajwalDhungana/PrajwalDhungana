@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently focusing to develop myself<br>👯 I’m looking to collaborate on academic projects<br>🤝 I’m looking for help with python projects<br>🌱 I’m currently learning python and typescript<br>💬 Ask me about anything
+<!-- # 💫 About Me:
+🔭 I’m currently focusing to develop myself<br>👯 I’m looking to collaborate on academic projects<br>🤝 I’m looking for help with python projects<br>🌱 I’m currently learning python and typescript<br>💬 Ask me about anything -->
 
 
 ## 🌐 Socials:
