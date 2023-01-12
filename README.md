@@ -26,16 +26,19 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajwaldhungana&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwaldhungana&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldhungana&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajwaldhungana&theme=transparent&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=prajwaldhungana&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldhungana&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajwaldhungana&theme=vue&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prajwaldhungana&theme=vue&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prajwaldhungana&icon=7&color=0)](https://visitcount.itsvg.in)
