@@ -32,6 +32,6 @@ jobs:
       # uses: vn7n24fzkq/github-profile-summary-cards@v0.5.3
         with:
           # GitHub username
-          USERNAME: ${{ github.prajwaldhungana }}
+          USERNAME: ${{ prajwaldhungana }}
           # The UTC offset used in the Productive Time Card.(e.g., 8, -3)
           UTC_OFFSET: 0
