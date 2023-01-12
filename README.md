@@ -23,12 +23,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwaldhungana&theme=transparent&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=prajwaldhungana&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldhungana&layout=compact) -->
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwaldhungana&show_icons=true&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prajwaldhungana&layout=compact&theme=graywhite)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajwaldhungana&theme=graywhite&hide_border=false)<br/>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajwaldhungana&theme=vue&no-frame=false&no-bg=true&margin-w=4) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prajwaldhungana&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=transparent)
 
