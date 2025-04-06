@@ -1,4 +1,4 @@
-<!-- # 🛠️ Tools and Technologies:
+# 🛠️ Tools and Technologies:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,5 +35,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prajwaldhungana&icon=5&color=12)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=prajwaldhungana&icon=5&color=12)](https://visitcount.itsvg.in)
 <!--- https://gprm.itsvg.in --->
